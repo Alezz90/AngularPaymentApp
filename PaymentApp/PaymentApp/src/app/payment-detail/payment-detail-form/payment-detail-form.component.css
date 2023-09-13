@@ -1,0 +1,16 @@
+p {
+    font-family: Lato;
+  }
+  
+  :ng-deep .center {
+    text-align: center;
+  }
+  .center {
+    text-align: center;
+  }
+  
+  .toast-success {
+    padding-left: 80px;
+    text-align: center;
+    background-position: 35% !important;
+  }
